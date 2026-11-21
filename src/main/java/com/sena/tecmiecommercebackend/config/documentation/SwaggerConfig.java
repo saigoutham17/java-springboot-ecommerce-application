@@ -41,7 +41,7 @@ public class SwaggerConfig implements WebMvcConfigurer {
     }
 
     private ApiInfo getApiInfo() {
-        Contact contact = new Contact("Sena Atakosker", "https://github.com/SwishSwishBish", "senaatakosker@gmail.com");
+        Contact contact = new Contact("Sai Goutham", "https://github.com/saigoutham17", "saigouthammanchikanti@gmail.com");
         return new ApiInfoBuilder()
                 .title("Tecmi E-Commerce API")
                 .description("Documentation")

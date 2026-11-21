@@ -1,9 +1,7 @@
-<p align=end><strong><a href="https://github.com/SwishSwishBish/tecmi-ecommerce-frontend"> < Check out the frontend > </a></strong></p>
-
 # <p align=center>Tecmi E-Commerce</p>
 <p align="center"><img 
     style="width: 70%;"
-    src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-1.png" 
+    src="./images/tecmi-1.png" 
     alt="Our logo">
 </img></p>
 <p align="center">
@@ -17,10 +15,9 @@
 
 
 <p align=center>
-This project is a web-based e-commerce application developed with Java, Spring Boot and Vue.js. It is not a real e-commerce site, it is a fully functional e-commerce site clone for educational purposes. You can use this e-commerce project for learning purposes. </p> 
+This project is a web-based e-commerce application developed with Java, Spring Boot and Vue.js. It is a fully functional e-commerce site clone for educational and learning purposes.
+</p> 
 <p align=center>If you're using this app, please ⭐ this repository!</p> 
-
-
 
 
 ## Techs
@@ -85,30 +82,30 @@ This project is a web-based e-commerce application developed with Java, Spring B
 - Cart management
 - Checkout
 - Payment
-- Valitadions
+- Validations
 
 
 ## Demo
 
-<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-gif.gif" alt="demo"/></p>
-<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-2.png" alt="demo"/></p>
-<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-3.png" alt="demo"/></p>
-<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-4.png" alt="demo"/></p>
-<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/tecmi-5.png" alt="demo"/></p>
+<p align="center"><img width=700 src="./images/tecmi-gif.gif" alt="demo"/></p>
+<p align="center"><img width=700 src="./images/tecmi-2.png" alt="demo"/></p>
+<p align="center"><img width=700 src="./images/tecmi-3.png" alt="demo"/></p>
+<p align="center"><img width=700 src="./images/tecmi-4.png" alt="demo"/></p>
+<p align="center"><img width=700 src="./images/tecmi-5.png" alt="demo"/></p>
 
 ## Swagger Demo
 
-<p align="center"><img width=700 src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/raw/master/images/swagger-gif.gif" alt="demo"/></p>
+<p align="center"><img width=700 src="./images/swagger-gif.gif" alt="demo"/></p>
 
 ## Architecture
 
 <p align="center"><img 
-    style="width:  70%;"
-    src="https://github.com/SwishSwishBish/tecmi-ecommerce-backend/blob/master/images/diagram.png?raw=true" 
+    style="width: 70%;"
+    src="./images/diagram.png" 
     alt="Diagram">
 </img>
 
-## Connect with me:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sena-atak%C3%B6%C5%9Fker-3a79b0235/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SenaAtakosker)
-[![portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senaatakosker@gmail.com)
+## Author & Maintainer
+
+[![GitHub](https://img.shields.io/badge/GitHub-saigoutham17-181717?style=for-the-badge&logo=github)](https://github.com/saigoutham17)
+[![Gmail](https://img.shields.io/badge/Gmail-saigouthammanchikanti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saigouthammanchikanti@gmail.com)
