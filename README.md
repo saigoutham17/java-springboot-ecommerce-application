@@ -1,4 +1,4 @@
-<p align=end><strong><a href="https://github.com/saigoutham17/tecmi-ecommerce-frontend"> < Check out the frontend > </a></strong></p>
+<p align=end><strong><a href="https://github.com/saigoutham17/tecmi-ecommerce"> < Check out the web app > </a></strong></p>
 
 # <p align=center>Tecmi E-Commerce</p>
 <p align="center"><img 
